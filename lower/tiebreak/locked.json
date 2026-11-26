@@ -1,0 +1,431 @@
+{
+  "ATM": {
+    "original": 261126,
+    "ranking": [
+      {
+        "ids": [
+          "00007",
+          "00010",
+          "00016",
+          "00020",
+          "00026",
+          "00028",
+          "00041",
+          "00049",
+          "00050",
+          "00072",
+          "00078",
+          "00079"
+        ],
+        "pairs": 82,
+        "seed": 261128,
+        "triples": 229
+      },
+      {
+        "ids": [
+          "00003",
+          "00011",
+          "00014",
+          "00019",
+          "00022",
+          "00024",
+          "00047",
+          "00054",
+          "00057",
+          "00063",
+          "00066",
+          "00072"
+        ],
+        "pairs": 82,
+        "seed": 261126,
+        "triples": 224
+      },
+      {
+        "ids": [
+          "00002",
+          "00008",
+          "00009",
+          "00023",
+          "00026",
+          "00029",
+          "00036",
+          "00044",
+          "00048",
+          "00052",
+          "00055",
+          "00073"
+        ],
+        "pairs": 82,
+        "seed": 261127,
+        "triples": 223
+      }
+    ],
+    "winner": 261128
+  },
+  "JHipster": {
+    "original": 17,
+    "ranking": [
+      {
+        "ids": [
+          "jhipster10528/TRUE",
+          "jhipster11276/TRUE",
+          "jhipster11792/TRUE",
+          "jhipster1980/FALSE",
+          "jhipster3343/FALSE",
+          "jhipster3441/TRUE",
+          "jhipster488/FALSE",
+          "jhipster5618/TRUE",
+          "jhipster638/FALSE",
+          "jhipster7561/FALSE",
+          "jhipster7966/TRUE",
+          "jhipster8161/FALSE"
+        ],
+        "pairs": 642,
+        "seed": 313,
+        "triples": 3588
+      },
+      {
+        "ids": [
+          "jhipster10167/FALSE",
+          "jhipster10737/FALSE",
+          "jhipster12400/TRUE",
+          "jhipster12682/FALSE",
+          "jhipster1444/FALSE",
+          "jhipster192/TRUE",
+          "jhipster2181/FALSE",
+          "jhipster4430/FALSE",
+          "jhipster7399/TRUE",
+          "jhipster776/TRUE",
+          "jhipster8634/TRUE",
+          "jhipster8758/TRUE"
+        ],
+        "pairs": 642,
+        "seed": 417,
+        "triples": 3585
+      },
+      {
+        "ids": [
+          "jhipster10341/TRUE",
+          "jhipster11919/FALSE",
+          "jhipster12339/FALSE",
+          "jhipster124/TRUE",
+          "jhipster1256/TRUE",
+          "jhipster2658/TRUE",
+          "jhipster3562/FALSE",
+          "jhipster5618/TRUE",
+          "jhipster6973/FALSE",
+          "jhipster7476/FALSE",
+          "jhipster8604/FALSE",
+          "jhipster9238/TRUE"
+        ],
+        "pairs": 642,
+        "seed": 19,
+        "triples": 3584
+      },
+      {
+        "ids": [
+          "jhipster10682/FALSE",
+          "jhipster12682/FALSE",
+          "jhipster12801/TRUE",
+          "jhipster12997/TRUE",
+          "jhipster13061/TRUE",
+          "jhipster1677/FALSE",
+          "jhipster4430/FALSE",
+          "jhipster6306/FALSE",
+          "jhipster8132/FALSE",
+          "jhipster8634/TRUE",
+          "jhipster9529/TRUE",
+          "jhipster9973/TRUE"
+        ],
+        "pairs": 642,
+        "seed": 419,
+        "triples": 3583
+      },
+      {
+        "ids": [
+          "jhipster10028/TRUE",
+          "jhipster12261/TRUE",
+          "jhipster12316/TRUE",
+          "jhipster12909/FALSE",
+          "jhipster1564/FALSE",
+          "jhipster2616/TRUE",
+          "jhipster2769/FALSE",
+          "jhipster4724/FALSE",
+          "jhipster5220/FALSE",
+          "jhipster5781/FALSE",
+          "jhipster6583/TRUE",
+          "jhipster944/TRUE"
+        ],
+        "pairs": 642,
+        "seed": 101,
+        "triples": 3578
+      },
+      {
+        "ids": [
+          "jhipster11690/TRUE",
+          "jhipster128/TRUE",
+          "jhipster167/FALSE",
+          "jhipster1801/FALSE",
+          "jhipster2257/FALSE",
+          "jhipster2817/FALSE",
+          "jhipster3339/TRUE",
+          "jhipster4535/TRUE",
+          "jhipster6287/TRUE",
+          "jhipster6312/FALSE",
+          "jhipster6541/FALSE",
+          "jhipster7312/TRUE"
+        ],
+        "pairs": 642,
+        "seed": 17,
+        "triples": 3575
+      },
+      {
+        "ids": [
+          "jhipster1256/FALSE",
+          "jhipster1406/TRUE",
+          "jhipster2257/TRUE",
+          "jhipster2988/FALSE",
+          "jhipster3518/TRUE",
+          "jhipster4217/FALSE",
+          "jhipster5220/FALSE",
+          "jhipster556/TRUE",
+          "jhipster5618/FALSE",
+          "jhipster6973/TRUE",
+          "jhipster7410/FALSE",
+          "jhipster7476/TRUE"
+        ],
+        "pairs": 642,
+        "seed": 109,
+        "triples": 3573
+      },
+      {
+        "ids": [
+          "jhipster12181/FALSE",
+          "jhipster12355/TRUE",
+          "jhipster12938/FALSE",
+          "jhipster1315/TRUE",
+          "jhipster2257/FALSE",
+          "jhipster3243/FALSE",
+          "jhipster4833/TRUE",
+          "jhipster5197/TRUE",
+          "jhipster6958/FALSE",
+          "jhipster7091/TRUE",
+          "jhipster7773/TRUE",
+          "jhipster8540/FALSE"
+        ],
+        "pairs": 642,
+        "seed": 311,
+        "triples": 3567
+      },
+      {
+        "ids": [
+          "jhipster10976/TRUE",
+          "jhipster11636/TRUE",
+          "jhipster1359/FALSE",
+          "jhipster1396/FALSE",
+          "jhipster209/FALSE",
+          "jhipster2181/TRUE",
+          "jhipster3082/TRUE",
+          "jhipster524/TRUE",
+          "jhipster7320/FALSE",
+          "jhipster7399/FALSE",
+          "jhipster7815/FALSE",
+          "jhipster8207/TRUE"
+        ],
+        "pairs": 642,
+        "seed": 107,
+        "triples": 3560
+      }
+    ],
+    "winner": 313
+  },
+  "MinePump": {
+    "original": 261126,
+    "ranking": [
+      {
+        "ids": [
+          "00003",
+          "00007",
+          "00014",
+          "00015",
+          "00019",
+          "00022",
+          "00024",
+          "00026",
+          "00036",
+          "00038",
+          "00046",
+          "00052"
+        ],
+        "pairs": 60,
+        "seed": 261127,
+        "triples": 143
+      },
+      {
+        "ids": [
+          "00006",
+          "00024",
+          "00028",
+          "00037",
+          "00042",
+          "00044",
+          "00045",
+          "00050",
+          "00051",
+          "00052",
+          "00058",
+          "00060"
+        ],
+        "pairs": 60,
+        "seed": 261126,
+        "triples": 140
+      },
+      {
+        "ids": [
+          "00015",
+          "00016",
+          "00019",
+          "00023",
+          "00028",
+          "00029",
+          "00036",
+          "00038",
+          "00039",
+          "00043",
+          "00047",
+          "00057"
+        ],
+        "pairs": 60,
+        "seed": 261128,
+        "triples": 136
+      }
+    ],
+    "winner": 261127
+  },
+  "companies": {
+    "original": 261126,
+    "ranking": [
+      {
+        "ids": [
+          "00038",
+          "00057",
+          "00073",
+          "00076",
+          "00078",
+          "00090",
+          "00104",
+          "00107",
+          "00111",
+          "00135",
+          "00168",
+          "00187"
+        ],
+        "pairs": 140,
+        "seed": 261126,
+        "triples": 559
+      },
+      {
+        "ids": [
+          "00046",
+          "00074",
+          "00076",
+          "00079",
+          "00087",
+          "00090",
+          "00123",
+          "00133",
+          "00150",
+          "00160",
+          "00169",
+          "00184"
+        ],
+        "pairs": 140,
+        "seed": 261127,
+        "triples": 546
+      },
+      {
+        "ids": [
+          "00003",
+          "00013",
+          "00046",
+          "00054",
+          "00095",
+          "00118",
+          "00119",
+          "00122",
+          "00133",
+          "00166",
+          "00176",
+          "00183"
+        ],
+        "pairs": 140,
+        "seed": 261128,
+        "triples": 537
+      }
+    ],
+    "winner": 261126
+  },
+  "sudoku": {
+    "original": 261126,
+    "ranking": [
+      {
+        "ids": [
+          "00001",
+          "00003",
+          "00004",
+          "00008",
+          "00009",
+          "00011",
+          "00014",
+          "00015",
+          "00016",
+          "00017",
+          "00019",
+          "00020"
+        ],
+        "pairs": 54,
+        "seed": 261128,
+        "triples": 117
+      },
+      {
+        "ids": [
+          "00001",
+          "00003",
+          "00004",
+          "00005",
+          "00007",
+          "00009",
+          "00010",
+          "00011",
+          "00012",
+          "00017",
+          "00018",
+          "00020"
+        ],
+        "pairs": 54,
+        "seed": 261126,
+        "triples": 114
+      },
+      {
+        "ids": [
+          "00003",
+          "00004",
+          "00007",
+          "00009",
+          "00010",
+          "00011",
+          "00013",
+          "00015",
+          "00016",
+          "00017",
+          "00018",
+          "00019"
+        ],
+        "pairs": 54,
+        "seed": 261127,
+        "triples": 114
+      }
+    ],
+    "winner": 261128
+  }
+}

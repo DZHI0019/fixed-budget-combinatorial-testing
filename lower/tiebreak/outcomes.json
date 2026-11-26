@@ -1,0 +1,352 @@
+{
+  "ATM": {
+    "all_candidates": {
+      "261126": {
+        "archived_signatures": [
+          "ATMUserInterfaceTest(testset.ATMUserInterfaceTest2)",
+          "testCreateTransaction(testset.ATMTest)"
+        ],
+        "pairs": 82,
+        "reported_configurations": 12,
+        "signature_count": 2,
+        "triples": 224
+      },
+      "261127": {
+        "archived_signatures": [
+          "ATMUserInterfaceTest(testset.ATMUserInterfaceTest2)"
+        ],
+        "pairs": 82,
+        "reported_configurations": 12,
+        "signature_count": 1,
+        "triples": 223
+      },
+      "261128": {
+        "archived_signatures": [
+          "ATMUserInterfaceTest(testset.ATMUserInterfaceTest2)"
+        ],
+        "pairs": 82,
+        "reported_configurations": 12,
+        "signature_count": 1,
+        "triples": 229
+      }
+    },
+    "original": {
+      "archived_signatures": [
+        "ATMUserInterfaceTest(testset.ATMUserInterfaceTest2)",
+        "testCreateTransaction(testset.ATMTest)"
+      ],
+      "pairs": 82,
+      "reported_configurations": 12,
+      "signature_count": 2,
+      "triples": 224
+    },
+    "tiebreak": {
+      "archived_signatures": [
+        "ATMUserInterfaceTest(testset.ATMUserInterfaceTest2)"
+      ],
+      "pairs": 82,
+      "reported_configurations": 12,
+      "signature_count": 1,
+      "triples": 229
+    }
+  },
+  "JHipster": {
+    "all_candidates": {
+      "17": {
+        "archived_signatures": [
+          "BUG:OAUTH2",
+          "BUG:UAAAuthenticationWithDocker",
+          "BUG:UAAAuthenticationWithEhcache",
+          "BUG:mariadbWithDocker",
+          "BUG:mariadbWithGradle",
+          "BUG:socialLoginWithMongoDB"
+        ],
+        "pairs": 642,
+        "reported_configurations": 8,
+        "signature_count": 6,
+        "triples": 3575
+      },
+      "19": {
+        "archived_signatures": [
+          "BUG:OAUTH2",
+          "BUG:UAAAuthenticationWithDocker",
+          "BUG:mariadbWithDocker",
+          "BUG:socialLoginWithMongoDB"
+        ],
+        "pairs": 642,
+        "reported_configurations": 6,
+        "signature_count": 4,
+        "triples": 3584
+      },
+      "101": {
+        "archived_signatures": [
+          "BUG:UAAAuthenticationWithDocker",
+          "BUG:UAAAuthenticationWithEhcache",
+          "BUG:mariadbWithDocker",
+          "BUG:socialLoginWithMongoDB"
+        ],
+        "pairs": 642,
+        "reported_configurations": 5,
+        "signature_count": 4,
+        "triples": 3578
+      },
+      "107": {
+        "archived_signatures": [
+          "BUG:UAAAuthenticationWithDocker",
+          "BUG:UAAAuthenticationWithEhcache",
+          "BUG:mariadbWithDocker",
+          "BUG:mariadbWithGradle",
+          "BUG:socialLoginWithMongoDB"
+        ],
+        "pairs": 642,
+        "reported_configurations": 7,
+        "signature_count": 5,
+        "triples": 3560
+      },
+      "109": {
+        "archived_signatures": [
+          "BUG:UAAAuthenticationWithEhcache",
+          "BUG:mariadbWithDocker",
+          "BUG:socialLoginWithMongoDB"
+        ],
+        "pairs": 642,
+        "reported_configurations": 5,
+        "signature_count": 3,
+        "triples": 3573
+      },
+      "311": {
+        "archived_signatures": [
+          "BUG:OAUTH2",
+          "BUG:UAAAuthenticationWithDocker",
+          "BUG:mariadbWithGradle",
+          "BUG:socialLoginWithMongoDB"
+        ],
+        "pairs": 642,
+        "reported_configurations": 5,
+        "signature_count": 4,
+        "triples": 3567
+      },
+      "313": {
+        "archived_signatures": [
+          "BUG:UAAAuthenticationWithDocker",
+          "BUG:UAAAuthenticationWithEhcache",
+          "BUG:mariadbWithDocker",
+          "BUG:socialLoginWithMongoDB"
+        ],
+        "pairs": 642,
+        "reported_configurations": 6,
+        "signature_count": 4,
+        "triples": 3588
+      },
+      "417": {
+        "archived_signatures": [
+          "BUG:OAUTH2",
+          "BUG:UAAAuthenticationWithDocker",
+          "BUG:UAAAuthenticationWithEhcache",
+          "BUG:mariadbWithDocker",
+          "BUG:mariadbWithGradle",
+          "BUG:socialLoginWithMongoDB"
+        ],
+        "pairs": 642,
+        "reported_configurations": 8,
+        "signature_count": 6,
+        "triples": 3585
+      },
+      "419": {
+        "archived_signatures": [
+          "BUG:UAAAuthenticationWithDocker",
+          "BUG:UAAAuthenticationWithEhcache",
+          "BUG:mariadbWithDocker",
+          "BUG:mariadbWithGradle",
+          "BUG:socialLoginWithMongoDB"
+        ],
+        "pairs": 642,
+        "reported_configurations": 7,
+        "signature_count": 5,
+        "triples": 3583
+      }
+    },
+    "original": {
+      "archived_signatures": [
+        "BUG:OAUTH2",
+        "BUG:UAAAuthenticationWithDocker",
+        "BUG:UAAAuthenticationWithEhcache",
+        "BUG:mariadbWithDocker",
+        "BUG:mariadbWithGradle",
+        "BUG:socialLoginWithMongoDB"
+      ],
+      "pairs": 642,
+      "reported_configurations": 8,
+      "signature_count": 6,
+      "triples": 3575
+    },
+    "tiebreak": {
+      "archived_signatures": [
+        "BUG:UAAAuthenticationWithDocker",
+        "BUG:UAAAuthenticationWithEhcache",
+        "BUG:mariadbWithDocker",
+        "BUG:socialLoginWithMongoDB"
+      ],
+      "pairs": 642,
+      "reported_configurations": 6,
+      "signature_count": 4,
+      "triples": 3588
+    }
+  },
+  "MinePump": {
+    "all_candidates": {
+      "261126": {
+        "archived_signatures": [
+          "startTest(testset.PL_Interface_implTest)",
+          "test_3(testset.PL_Interface_implTest)",
+          "test_4(testset.PL_Interface_implTest)"
+        ],
+        "pairs": 60,
+        "reported_configurations": 1,
+        "signature_count": 3,
+        "triples": 140
+      },
+      "261127": {
+        "archived_signatures": [
+          "startTest(testset.PL_Interface_implTest)",
+          "test_3(testset.PL_Interface_implTest)",
+          "test_4(testset.PL_Interface_implTest)"
+        ],
+        "pairs": 60,
+        "reported_configurations": 2,
+        "signature_count": 3,
+        "triples": 143
+      },
+      "261128": {
+        "archived_signatures": [
+          "startTest(testset.PL_Interface_implTest)",
+          "test_3(testset.PL_Interface_implTest)",
+          "test_4(testset.PL_Interface_implTest)"
+        ],
+        "pairs": 60,
+        "reported_configurations": 1,
+        "signature_count": 3,
+        "triples": 136
+      }
+    },
+    "original": {
+      "archived_signatures": [
+        "startTest(testset.PL_Interface_implTest)",
+        "test_3(testset.PL_Interface_implTest)",
+        "test_4(testset.PL_Interface_implTest)"
+      ],
+      "pairs": 60,
+      "reported_configurations": 1,
+      "signature_count": 3,
+      "triples": 140
+    },
+    "tiebreak": {
+      "archived_signatures": [
+        "startTest(testset.PL_Interface_implTest)",
+        "test_3(testset.PL_Interface_implTest)",
+        "test_4(testset.PL_Interface_implTest)"
+      ],
+      "pairs": 60,
+      "reported_configurations": 2,
+      "signature_count": 3,
+      "triples": 143
+    }
+  },
+  "companies": {
+    "all_candidates": {
+      "261126": {
+        "archived_signatures": [
+          "test2B(tests.Pilot_GUI)",
+          "testTotalValueDepartment(tests.TestGUIExample)"
+        ],
+        "pairs": 140,
+        "reported_configurations": 1,
+        "signature_count": 2,
+        "triples": 559
+      },
+      "261127": {
+        "archived_signatures": [],
+        "pairs": 140,
+        "reported_configurations": 0,
+        "signature_count": 0,
+        "triples": 546
+      },
+      "261128": {
+        "archived_signatures": [],
+        "pairs": 140,
+        "reported_configurations": 0,
+        "signature_count": 0,
+        "triples": 537
+      }
+    },
+    "original": {
+      "archived_signatures": [
+        "test2B(tests.Pilot_GUI)",
+        "testTotalValueDepartment(tests.TestGUIExample)"
+      ],
+      "pairs": 140,
+      "reported_configurations": 1,
+      "signature_count": 2,
+      "triples": 559
+    },
+    "tiebreak": {
+      "archived_signatures": [
+        "test2B(tests.Pilot_GUI)",
+        "testTotalValueDepartment(tests.TestGUIExample)"
+      ],
+      "pairs": 140,
+      "reported_configurations": 1,
+      "signature_count": 2,
+      "triples": 559
+    }
+  },
+  "sudoku": {
+    "all_candidates": {
+      "261126": {
+        "archived_signatures": [
+          "tryLoadFileTest(tests.BoardManagerTest)"
+        ],
+        "pairs": 54,
+        "reported_configurations": 3,
+        "signature_count": 1,
+        "triples": 114
+      },
+      "261127": {
+        "archived_signatures": [
+          "tryLoadFileTest(tests.BoardManagerTest)"
+        ],
+        "pairs": 54,
+        "reported_configurations": 3,
+        "signature_count": 1,
+        "triples": 114
+      },
+      "261128": {
+        "archived_signatures": [
+          "tryLoadFileTest(tests.BoardManagerTest)"
+        ],
+        "pairs": 54,
+        "reported_configurations": 3,
+        "signature_count": 1,
+        "triples": 117
+      }
+    },
+    "original": {
+      "archived_signatures": [
+        "tryLoadFileTest(tests.BoardManagerTest)"
+      ],
+      "pairs": 54,
+      "reported_configurations": 3,
+      "signature_count": 1,
+      "triples": 114
+    },
+    "tiebreak": {
+      "archived_signatures": [
+        "tryLoadFileTest(tests.BoardManagerTest)"
+      ],
+      "pairs": 54,
+      "reported_configurations": 3,
+      "signature_count": 1,
+      "triples": 117
+    }
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "ATM": {
+    "all_test_signatures": [
+      "ATMUserInterfaceTest(testset.ATMUserInterfaceTest2)",
+      "testCreateTransaction(testset.ATMTest)"
+    ],
+    "chosen": {
+      "historical_failure_report_configs": 12,
+      "historical_test_signatures": [
+        "ATMUserInterfaceTest(testset.ATMUserInterfaceTest2)",
+        "testCreateTransaction(testset.ATMTest)"
+      ],
+      "matched_ids": [
+        "00003",
+        "00011",
+        "00014",
+        "00019",
+        "00022",
+        "00024",
+        "00047",
+        "00054",
+        "00057",
+        "00063",
+        "00066",
+        "00072"
+      ]
+    },
+    "distinct_reported_failing_configs": 79,
+    "greedy": {
+      "historical_failure_report_configs": 12,
+      "historical_test_signatures": [
+        "ATMUserInterfaceTest(testset.ATMUserInterfaceTest2)",
+        "testCreateTransaction(testset.ATMTest)"
+      ],
+      "matched_ids": [
+        "00002",
+        "00005",
+        "00012",
+        "00014",
+        "00035",
+        "00036",
+        "00045",
+        "00046",
+        "00062",
+        "00066",
+        "00069",
+        "00079"
+      ]
+    },
+    "greedy_pairs": 82,
+    "optimizer_seeds": {
+      "261126": {
+        "historical_failure_report_configs": 12,
+        "historical_test_signatures": [
+          "ATMUserInterfaceTest(testset.ATMUserInterfaceTest2)",
+          "testCreateTransaction(testset.ATMTest)"
+        ],
+        "matched_ids": [
+          "00003",
+          "00011",
+          "00014",
+          "00019",
+          "00022",
+          "00024",
+          "00047",
+          "00054",
+          "00057",
+          "00063",
+          "00066",
+          "00072"
+        ]
+      },
+      "261127": {
+        "historical_failure_report_configs": 12,
+        "historical_test_signatures": [
+          "ATMUserInterfaceTest(testset.ATMUserInterfaceTest2)"
+        ],
+        "matched_ids": [
+          "00002",
+          "00008",
+          "00009",
+          "00023",
+          "00026",
+          "00029",
+          "00036",
+          "00044",
+          "00048",
+          "00052",
+          "00055",
+          "00073"
+        ]
+      },
+      "261128": {
+        "historical_failure_report_configs": 12,
+        "historical_test_signatures": [
+          "ATMUserInterfaceTest(testset.ATMUserInterfaceTest2)"
+        ],
+        "matched_ids": [
+          "00007",
+          "00010",
+          "00016",
+          "00020",
+          "00026",
+          "00028",
+          "00041",
+          "00049",
+          "00050",
+          "00072",
+          "00078",
+          "00079"
+        ]
+      }
+    },
+    "pairs": 82,
+    "paper_report_count": 80,
+    "population": 80,
+    "random_expected_pairs": 78.09440116272927,
+    "random_expected_reported_configurations": 11.85,
+    "random_probability_at_least_one_report": 1.0,
+    "report_rows": 81,
+    "report_rows_outside_population": 0,
+    "selected_pairs": 82
+  },
+  "MinePump": {
+    "all_test_signatures": [
+      "startTest(testset.PL_Interface_implTest)",
+      "test_3(testset.PL_Interface_implTest)",
+      "test_4(testset.PL_Interface_implTest)"
+    ],
+    "chosen": {
+      "historical_failure_report_configs": 1,
+      "historical_test_signatures": [
+        "startTest(testset.PL_Interface_implTest)",
+        "test_3(testset.PL_Interface_implTest)",
+        "test_4(testset.PL_Interface_implTest)"
+      ],
+      "matched_ids": [
+        "00037"
+      ]
+    },
+    "distinct_reported_failing_configs": 8,
+    "greedy": {
+      "historical_failure_report_configs": 2,
+      "historical_test_signatures": [
+        "startTest(testset.PL_Interface_implTest)",
+        "test_3(testset.PL_Interface_implTest)",
+        "test_4(testset.PL_Interface_implTest)"
+      ],
+      "matched_ids": [
+        "00010",
+        "00055"
+      ]
+    },
+    "greedy_pairs": 60,
+    "optimizer_seeds": {
+      "261126": {
+        "historical_failure_report_configs": 1,
+        "historical_test_signatures": [
+          "startTest(testset.PL_Interface_implTest)",
+          "test_3(testset.PL_Interface_implTest)",
+          "test_4(testset.PL_Interface_implTest)"
+        ],
+        "matched_ids": [
+          "00037"
+        ]
+      },
+      "261127": {
+        "historical_failure_report_configs": 2,
+        "historical_test_signatures": [
+          "startTest(testset.PL_Interface_implTest)",
+          "test_3(testset.PL_Interface_implTest)",
+          "test_4(testset.PL_Interface_implTest)"
+        ],
+        "matched_ids": [
+          "00007",
+          "00046"
+        ]
+      },
+      "261128": {
+        "historical_failure_report_configs": 1,
+        "historical_test_signatures": [
+          "startTest(testset.PL_Interface_implTest)",
+          "test_3(testset.PL_Interface_implTest)",
+          "test_4(testset.PL_Interface_implTest)"
+        ],
+        "matched_ids": [
+          "00016"
+        ]
+      }
+    },
+    "pairs": 60,
+    "paper_report_count": 24,
+    "population": 64,
+    "random_expected_pairs": 58.72721108513692,
+    "random_expected_reported_configurations": 1.5,
+    "random_probability_at_least_one_report": 0.8299796579132241,
+    "report_rows": 24,
+    "report_rows_outside_population": 0,
+    "selected_pairs": 60
+  },
+  "companies": {
+    "all_test_signatures": [
+      "test2B(tests.Pilot_GUI)",
+      "testTotalValueDepartment(tests.TestGUIExample)"
+    ],
+    "chosen": {
+      "historical_failure_report_configs": 1,
+      "historical_test_signatures": [
+        "test2B(tests.Pilot_GUI)",
+        "testTotalValueDepartment(tests.TestGUIExample)"
+      ],
+      "matched_ids": [
+        "00187"
+      ]
+    },
+    "distinct_reported_failing_configs": 8,
+    "greedy": {
+      "historical_failure_report_configs": 2,
+      "historical_test_signatures": [
+        "test2B(tests.Pilot_GUI)",
+        "testTotalValueDepartment(tests.TestGUIExample)"
+      ],
+      "matched_ids": [
+        "00171",
+        "00181"
+      ]
+    },
+    "greedy_pairs": 140,
+    "optimizer_seeds": {
+      "261126": {
+        "historical_failure_report_configs": 1,
+        "historical_test_signatures": [
+          "test2B(tests.Pilot_GUI)",
+          "testTotalValueDepartment(tests.TestGUIExample)"
+        ],
+        "matched_ids": [
+          "00187"
+        ]
+      },
+      "261127": {
+        "historical_failure_report_configs": 0,
+        "historical_test_signatures": [],
+        "matched_ids": []
+      },
+      "261128": {
+        "historical_failure_report_configs": 0,
+        "historical_test_signatures": [],
+        "matched_ids": []
+      }
+    },
+    "pairs": 140,
+    "paper_report_count": 6,
+    "population": 192,
+    "random_expected_pairs": 129.86390123022997,
+    "random_expected_reported_configurations": 0.5,
+    "random_probability_at_least_one_report": 0.4092132545526085,
+    "report_rows": 16,
+    "report_rows_outside_population": 0,
+    "selected_pairs": 140
+  },
+  "sudoku": {
+    "all_test_signatures": [
+      "tryLoadFileTest(tests.BoardManagerTest)"
+    ],
+    "chosen": {
+      "historical_failure_report_configs": 3,
+      "historical_test_signatures": [
+        "tryLoadFileTest(tests.BoardManagerTest)"
+      ],
+      "matched_ids": [
+        "00017",
+        "00018",
+        "00020"
+      ]
+    },
+    "distinct_reported_failing_configs": 4,
+    "greedy": {
+      "historical_failure_report_configs": 2,
+      "historical_test_signatures": [
+        "tryLoadFileTest(tests.BoardManagerTest)"
+      ],
+      "matched_ids": [
+        "00017",
+        "00019"
+      ]
+    },
+    "greedy_pairs": 54,
+    "optimizer_seeds": {
+      "261126": {
+        "historical_failure_report_configs": 3,
+        "historical_test_signatures": [
+          "tryLoadFileTest(tests.BoardManagerTest)"
+        ],
+        "matched_ids": [
+          "00017",
+          "00018",
+          "00020"
+        ]
+      },
+      "261127": {
+        "historical_failure_report_configs": 3,
+        "historical_test_signatures": [
+          "tryLoadFileTest(tests.BoardManagerTest)"
+        ],
+        "matched_ids": [
+          "00017",
+          "00018",
+          "00019"
+        ]
+      },
+      "261128": {
+        "historical_failure_report_configs": 3,
+        "historical_test_signatures": [
+          "tryLoadFileTest(tests.BoardManagerTest)"
+        ],
+        "matched_ids": [
+          "00017",
+          "00019",
+          "00020"
+        ]
+      }
+    },
+    "pairs": 54,
+    "paper_report_count": 4,
+    "population": 20,
+    "random_expected_pairs": 52.555100420735094,
+    "random_expected_reported_configurations": 2.4,
+    "random_probability_at_least_one_report": 0.9855521155830753,
+    "report_rows": 4,
+    "report_rows_outside_population": 0,
+    "selected_pairs": 54
+  }
+}

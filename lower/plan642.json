@@ -1,0 +1,36 @@
+{
+  "sample": [
+    "jhipster3339/TRUE",
+    "jhipster2257/FALSE",
+    "jhipster128/TRUE",
+    "jhipster6541/FALSE",
+    "jhipster6312/FALSE",
+    "jhipster7312/TRUE",
+    "jhipster6287/TRUE",
+    "jhipster4535/TRUE",
+    "jhipster11690/TRUE",
+    "jhipster1801/FALSE",
+    "jhipster167/FALSE",
+    "jhipster2817/FALSE"
+  ],
+  "covered": 642,
+  "budget": 12,
+  "fields": [
+    "Docker",
+    "applicationType",
+    "authenticationType",
+    "hibernateCache",
+    "clusteredHttpSession",
+    "websocket",
+    "databaseType",
+    "devDatabaseType",
+    "prodDatabaseType",
+    "buildTool",
+    "searchEngine",
+    "enableSocialSignIn",
+    "useSass",
+    "enableTranslation"
+  ],
+  "feasible": 761,
+  "sha256": "fb842702e78a9db71687822d7e4950729c28a7a0d17c3e67c8357d8f7da6157a"
+}

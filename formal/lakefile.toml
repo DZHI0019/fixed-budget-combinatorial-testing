@@ -1,0 +1,12 @@
+name = "test_coverage_certificates"
+version = "1.0.0"
+defaultTargets = ["Certificates"]
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4"
+rev = "5450b53e5ddc75d46418fabb605edbf36bd0beb6"
+
+[[lean_lib]]
+name = "Certificates"
+roots = ["Budget", "CensusData", "CensusResult", "Grid", "GridData", "GridFacts", "GridResult"]

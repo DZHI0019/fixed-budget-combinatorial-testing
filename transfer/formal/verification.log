@@ -1,0 +1,37 @@
+'Transfer.ATM.lowLegal' does not depend on any axioms
+'Transfer.ATM.lowFull' depends on axioms: [propext]
+'Transfer.ATM.lowHits' does not depend on any axioms
+'Transfer.ATM.highLegal' does not depend on any axioms
+'Transfer.ATM.highFull' depends on axioms: [propext]
+'Transfer.ATM.highHits' does not depend on any axioms
+'Transfer.ATM.minimum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Transfer.ATM.maximum' depends on axioms: [propext, Quot.sound]
+'Transfer.MinePump.lowLegal' does not depend on any axioms
+'Transfer.MinePump.lowFull' depends on axioms: [propext]
+'Transfer.MinePump.lowHits' does not depend on any axioms
+'Transfer.MinePump.highLegal' does not depend on any axioms
+'Transfer.MinePump.highFull' depends on axioms: [propext]
+'Transfer.MinePump.highHits' does not depend on any axioms
+'Transfer.MinePump.minimum' does not depend on any axioms
+'Transfer.MinePump.maximum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Transfer.MinePump.threeLegal' does not depend on any axioms
+'Transfer.MinePump.threeFull' depends on axioms: [propext]
+'Transfer.MinePump.failureClass' depends on axioms: [propext]
+'Transfer.MinePump.threeForces' depends on axioms: [propext, Quot.sound]
+'Transfer.companies.lowLegal' does not depend on any axioms
+'Transfer.companies.lowFull' depends on axioms: [propext]
+'Transfer.companies.lowHits' does not depend on any axioms
+'Transfer.companies.highLegal' does not depend on any axioms
+'Transfer.companies.highFull' depends on axioms: [propext]
+'Transfer.companies.highHits' does not depend on any axioms
+'Transfer.companies.minimum' does not depend on any axioms
+'Transfer.companies.maximum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Transfer.sudoku.lowLegal' does not depend on any axioms
+'Transfer.sudoku.lowFull' depends on axioms: [propext]
+'Transfer.sudoku.lowHits' does not depend on any axioms
+'Transfer.sudoku.highLegal' does not depend on any axioms
+'Transfer.sudoku.highFull' depends on axioms: [propext]
+'Transfer.sudoku.highHits' does not depend on any axioms
+'Transfer.sudoku.minimum' depends on axioms: [propext, Quot.sound]
+'Transfer.sudoku.maximum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Transfer.sudoku.pairForces' depends on axioms: [propext, Quot.sound]

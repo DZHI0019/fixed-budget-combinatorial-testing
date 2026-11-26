@@ -1,0 +1,13 @@
+id,Docker,applicationType,authenticationType,hibernateCache,clusteredHttpSession,websocket,databaseType,devDatabaseType,prodDatabaseType,buildTool,searchEngine,enableSocialSignIn,useSass,enableTranslation
+jhipster3339/TRUE,TRUE,uaa,uaa,ehcache,no,no,sql,mariadb,mariadb,maven,no,FALSE,FALSE,TRUE
+jhipster2257/FALSE,FALSE,microservice,jwt,no,no,no,no,no,no,gradle,no,FALSE,FALSE,FALSE
+jhipster128/TRUE,TRUE,microservice,uaa,hazelcast,no,no,sql,DiskBased,mysql,maven,elasticsearch,FALSE,FALSE,TRUE
+jhipster6541/FALSE,FALSE,uaa,uaa,no,no,no,mongodb,mongodb,mongodb,gradle,no,FALSE,FALSE,FALSE
+jhipster6312/FALSE,FALSE,gateway,uaa,no,hazelcast,no,cassandra,cassandra,cassandra,gradle,no,FALSE,TRUE,TRUE
+jhipster7312/TRUE,TRUE,gateway,jwt,ehcache,hazelcast,spring-websocket,sql,InMemory,postgresql,maven,elasticsearch,FALSE,FALSE,FALSE
+jhipster6287/TRUE,TRUE,monolith,oauth2,no,hazelcast,spring-websocket,sql,mysql,mysql,gradle,elasticsearch,FALSE,FALSE,FALSE
+jhipster4535/TRUE,TRUE,monolith,jwt,no,hazelcast,spring-websocket,mongodb,mongodb,mongodb,maven,no,TRUE,TRUE,TRUE
+jhipster11690/TRUE,TRUE,monolith,session,no,no,spring-websocket,cassandra,cassandra,cassandra,maven,no,FALSE,FALSE,FALSE
+jhipster1801/FALSE,FALSE,monolith,oauth2,hazelcast,no,no,sql,postgresql,postgresql,maven,no,FALSE,TRUE,TRUE
+jhipster167/FALSE,FALSE,monolith,session,ehcache,no,no,sql,InMemory,mysql,gradle,no,TRUE,TRUE,TRUE
+jhipster2817/FALSE,FALSE,monolith,session,hazelcast,hazelcast,spring-websocket,sql,mariadb,mariadb,gradle,elasticsearch,TRUE,TRUE,FALSE

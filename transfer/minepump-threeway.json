@@ -1,0 +1,27 @@
+{
+  "covered_triples": 160,
+  "features": [
+    "highWaterSensor",
+    "lowWaterSensor",
+    "methaneAlarm",
+    "methaneQuery",
+    "startCommand",
+    "stopCommand"
+  ],
+  "ids": [
+    "00004",
+    "00006",
+    "00010",
+    "00011",
+    "00025",
+    "00026",
+    "00032",
+    "00036",
+    "00042",
+    "00044",
+    "00047",
+    "00058"
+  ],
+  "project": "MinePump",
+  "seed": 261126
+}

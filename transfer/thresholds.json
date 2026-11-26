@@ -1,0 +1,122 @@
+{
+  "ATM": {
+    "interactions": 14,
+    "one": {
+      "fields": [
+        "ADMIN_CONTROL"
+      ],
+      "support": [
+        "00033",
+        "00034",
+        "00035",
+        "00036",
+        "00037",
+        "00038",
+        "00039",
+        "00040",
+        "00041",
+        "00042",
+        "00043",
+        "00044",
+        "00045",
+        "00046",
+        "00047",
+        "00048",
+        "00065",
+        "00066",
+        "00067",
+        "00068",
+        "00069",
+        "00070",
+        "00071",
+        "00072",
+        "00073",
+        "00074",
+        "00075",
+        "00076",
+        "00077",
+        "00078",
+        "00079",
+        "00080"
+      ],
+      "values": [
+        1
+      ]
+    },
+    "solely_reported_interactions": 7,
+    "strength": 1
+  },
+  "MinePump": {
+    "interactions": 160,
+    "one": {
+      "fields": [
+        "highWaterSensor",
+        "lowWaterSensor",
+        "methaneAlarm"
+      ],
+      "support": [
+        "00007",
+        "00010",
+        "00013",
+        "00016",
+        "00037",
+        "00046",
+        "00055",
+        "00064"
+      ],
+      "values": [
+        1,
+        0,
+        0
+      ]
+    },
+    "solely_reported_interactions": 1,
+    "strength": 3
+  },
+  "companies": {
+    "interactions": 618,
+    "one": {
+      "fields": [
+        "CUT_WHATEVER",
+        "PRECEDENCE",
+        "TOTAL_WALKER"
+      ],
+      "support": [
+        "00069",
+        "00075",
+        "00085",
+        "00091",
+        "00165",
+        "00171",
+        "00181",
+        "00187"
+      ],
+      "values": [
+        1,
+        1,
+        1
+      ]
+    },
+    "solely_reported_interactions": 1,
+    "strength": 3
+  },
+  "sudoku": {
+    "interactions": 54,
+    "one": {
+      "fields": [
+        "EXTENDEDSUDOKU",
+        "GENERATOR"
+      ],
+      "support": [
+        "00019",
+        "00020"
+      ],
+      "values": [
+        1,
+        1
+      ]
+    },
+    "solely_reported_interactions": 2,
+    "strength": 2
+  }
+}

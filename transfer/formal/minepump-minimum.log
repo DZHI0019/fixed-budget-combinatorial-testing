@@ -1,0 +1,2 @@
+'Transfer.MinePump.Minimum.globalMinimum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Transfer.MinePump.Minimum.attained' depends on axioms: [propext]

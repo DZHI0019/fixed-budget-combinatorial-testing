@@ -1,0 +1,47 @@
+theorem sizeBound (s t : List Nat) (hn : s.Nodup) (inc : ∀ a ∈ s, a ∈ t) :
+    s.length ≤ t.length := by
+  induction s generalizing t with
+  | nil => simp
+  | cons a l ih =>
+    have hnod := List.nodup_cons.mp hn
+    have ha := inc a (by simp)
+    have sub : ∀ b ∈ l, b ∈ t.erase a := by
+      intro b hb
+      have hne : b ≠ a := by rintro rfl; exact hnod.1 hb
+      apply (List.mem_erase_of_ne hne).mpr
+      exact inc b (List.mem_cons_of_mem _ hb)
+    have below := ih (t.erase a) hnod.2 sub
+    rw [List.length_erase_of_mem ha] at below
+    have hpos : 0 < t.length := List.length_pos_of_mem ha
+    simp only [List.length_cons]
+    omega
+
+theorem partitionSize (s bad : List Nat) :
+    hits s bad + (s.filter (fun r => !bad.contains r)).length = s.length := by
+  unfold hits
+  induction s with
+  | nil => simp
+  | cons a l ih =>
+    cases h : bad.contains a <;>
+      simp only [List.filter_cons,h,Bool.not_false,Bool.not_true,Bool.false_eq_true,
+        if_true,if_false,List.length_cons] <;> omega
+
+theorem capBad (s bad : List Nat) (hn : s.Nodup) : hits s bad ≤ bad.length := by
+  apply sizeBound
+  · exact hn.filter _
+  · intro r hr
+    exact List.contains_iff_mem.mp (List.mem_filter.mp hr).2
+
+def classNum (ds : List (Nat × Nat)) (r : Nat) : Nat :=
+  ds.findIdx fun x => (r &&& x.1) == x.2
+
+theorem classWitness (d s bad masks : List Nat) (ds : List (Nat × Nat)) (code m p : Nat)
+    (cover : full d s masks = true) (hm : m ∈ masks) (hp : p ∈ d)
+    (valid : ∀ r ∈ s, r ∈ d)
+    (cert : (d.all fun r => (r &&& m != p &&& m) ||
+      ((!bad.contains r) && (classNum ds r == code))) = true) :
+    code ∈ (s.filter (fun r => !bad.contains r)).map (classNum ds) := by
+  obtain ⟨r,hr,he⟩ := coveredWitness d s masks m p cover hm hp
+  have value := List.all_eq_true.mp cert r (valid r hr)
+  have h : (bad.contains r = false) ∧ (classNum ds r = code) := by simpa [he] using value
+  exact List.mem_map.mpr ⟨r,List.mem_filter.mpr ⟨hr,by rw [h.1]; decide⟩,h.2⟩

@@ -1,0 +1,155 @@
+[
+  {
+    "seed": 17,
+    "ids": [
+      "jhipster3339/TRUE",
+      "jhipster2257/FALSE",
+      "jhipster128/TRUE",
+      "jhipster6541/FALSE",
+      "jhipster6312/FALSE",
+      "jhipster7312/TRUE",
+      "jhipster6287/TRUE",
+      "jhipster4535/TRUE",
+      "jhipster11690/TRUE",
+      "jhipster1801/FALSE",
+      "jhipster167/FALSE",
+      "jhipster2817/FALSE"
+    ]
+  },
+  {
+    "seed": 19,
+    "ids": [
+      "jhipster1256/TRUE",
+      "jhipster124/TRUE",
+      "jhipster7476/FALSE",
+      "jhipster6973/FALSE",
+      "jhipster9238/TRUE",
+      "jhipster10341/TRUE",
+      "jhipster11919/FALSE",
+      "jhipster3562/FALSE",
+      "jhipster5618/TRUE",
+      "jhipster2658/TRUE",
+      "jhipster8604/FALSE",
+      "jhipster12339/FALSE"
+    ]
+  },
+  {
+    "seed": 101,
+    "ids": [
+      "jhipster12316/TRUE",
+      "jhipster5781/FALSE",
+      "jhipster944/TRUE",
+      "jhipster12261/TRUE",
+      "jhipster4724/FALSE",
+      "jhipster2616/TRUE",
+      "jhipster10028/TRUE",
+      "jhipster5220/FALSE",
+      "jhipster6583/TRUE",
+      "jhipster2769/FALSE",
+      "jhipster1564/FALSE",
+      "jhipster12909/FALSE"
+    ]
+  },
+  {
+    "seed": 107,
+    "ids": [
+      "jhipster7320/FALSE",
+      "jhipster11636/TRUE",
+      "jhipster8207/TRUE",
+      "jhipster7815/FALSE",
+      "jhipster209/FALSE",
+      "jhipster10976/TRUE",
+      "jhipster7399/FALSE",
+      "jhipster1396/FALSE",
+      "jhipster1359/FALSE",
+      "jhipster3082/TRUE",
+      "jhipster524/TRUE",
+      "jhipster2181/TRUE"
+    ]
+  },
+  {
+    "seed": 109,
+    "ids": [
+      "jhipster7476/TRUE",
+      "jhipster5618/FALSE",
+      "jhipster5220/FALSE",
+      "jhipster1256/FALSE",
+      "jhipster1406/TRUE",
+      "jhipster3518/TRUE",
+      "jhipster4217/FALSE",
+      "jhipster2988/FALSE",
+      "jhipster6973/TRUE",
+      "jhipster556/TRUE",
+      "jhipster2257/TRUE",
+      "jhipster7410/FALSE"
+    ]
+  },
+  {
+    "seed": 311,
+    "ids": [
+      "jhipster1315/TRUE",
+      "jhipster6958/FALSE",
+      "jhipster12181/FALSE",
+      "jhipster4833/TRUE",
+      "jhipster2257/FALSE",
+      "jhipster7091/TRUE",
+      "jhipster12355/TRUE",
+      "jhipster8540/FALSE",
+      "jhipster12938/FALSE",
+      "jhipster5197/TRUE",
+      "jhipster3243/FALSE",
+      "jhipster7773/TRUE"
+    ]
+  },
+  {
+    "seed": 313,
+    "ids": [
+      "jhipster5618/TRUE",
+      "jhipster488/FALSE",
+      "jhipster7966/TRUE",
+      "jhipster7561/FALSE",
+      "jhipster3343/FALSE",
+      "jhipster638/FALSE",
+      "jhipster11792/TRUE",
+      "jhipster1980/FALSE",
+      "jhipster10528/TRUE",
+      "jhipster11276/TRUE",
+      "jhipster8161/FALSE",
+      "jhipster3441/TRUE"
+    ]
+  },
+  {
+    "seed": 417,
+    "ids": [
+      "jhipster8634/TRUE",
+      "jhipster2181/FALSE",
+      "jhipster7399/TRUE",
+      "jhipster10737/FALSE",
+      "jhipster776/TRUE",
+      "jhipster10167/FALSE",
+      "jhipster1444/FALSE",
+      "jhipster192/TRUE",
+      "jhipster4430/FALSE",
+      "jhipster12400/TRUE",
+      "jhipster8758/TRUE",
+      "jhipster12682/FALSE"
+    ]
+  },
+  {
+    "seed": 419,
+    "ids": [
+      "jhipster8634/TRUE",
+      "jhipster8132/FALSE",
+      "jhipster9973/TRUE",
+      "jhipster10682/FALSE",
+      "jhipster9529/TRUE",
+      "jhipster1677/FALSE",
+      "jhipster6306/FALSE",
+      "jhipster12997/TRUE",
+      "jhipster4430/FALSE",
+      "jhipster13061/TRUE",
+      "jhipster12801/TRUE",
+      "jhipster12682/FALSE"
+    ]
+  }
+]
